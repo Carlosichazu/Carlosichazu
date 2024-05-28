@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos ichazu</h1>
 <h3 align="center">A passionate Trainee developer from Portugal</h3>
 
-- 💬 Ask me about **Javascript, React, Django, C#, Python**
+- 💬 Ask me about **Javascript, React, Django, C#, Python, Angular**
 
 - 📫 How to reach me **carlospersonal58@gmail.com**
 
